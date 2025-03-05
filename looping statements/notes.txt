@@ -1,0 +1,35 @@
+1.What is a looping statements?
+2.Defferent types of looping statement in java?
+3.Syntax for while & do-while statement in java
+4.Hands on experience with while while & do-while
+  statements in java
+
+Defferent types of looping statements
+
+1.while
+syntac:-
+
+ while (condition) { 
+            //statements
+        }
+
+2.do-while
+
+do{
+    //statements
+    }while (condition);
+
+3.for 
+4.foreach
+
+Assignments:-
+
+1.print 1 to 100 values
+2.print even numbers between 200 and 500
+3.print the numbers which are divisible by 7 for the range of 150 to 200
+
+contd:
+
+4.print the prime numbers between 50 to 150
+5.print the sum of the even numbers between 40 to 80
+6.print the odd numbers between 200 to 25 (reverse order)

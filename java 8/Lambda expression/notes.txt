@@ -1,0 +1,7 @@
+1.what is a lambda expression?
+2.How to implement the functional interfaces 
+  with lambda expressions?
+3.Lambda Expression with parameters 
+  * Multiple parameters
+  * Single parameters
+4.Lambda expression with return type

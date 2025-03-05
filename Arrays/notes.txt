@@ -1,0 +1,29 @@
+1.what is an array? why do we need an array?
+2.Different types of arrays in java?
+3.What is a single dimensional array?
+4.Different ways of initiallizing single-dimensional array?
+5.What are default values of array elements?
+
+Assignments:-
+
+1.Print the sum of the integers in an integer array.
+  input:[2,5,1,9,6] & output:23
+
+2.Print the average of the integers in an integer array.
+  input:[2,5,3,9,6] & output:5
+
+3.Merge two arrays and Print the output in the console.
+  input:["chai","coffee"]&["milk","water","coke"]
+  output:["chai","coffee","milk","water","coke"]
+
+  Assignment contd:-
+
+4.Find the max number from an array and print it along with its index.
+  input:[2,5,1,9,6]& output:value - 9 & index - 3
+
+5.Find the main length word from an array and print it along with its index.
+  input:["coffee","water","chai","diet coke"] & output: value-chai & index - 2
+
+6.Reverse the array and print it in console
+  input:[true,false,false,true,false,true]
+  output:[true,false,true,false,false,true]    

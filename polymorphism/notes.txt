@@ -1,0 +1,5 @@
+1.what is polymorphism?
+2.Difference types of polymorphism in java?
+3.Method overloading
+4.Method overriding
+5.Is override annotation mandatory to use inn java?
