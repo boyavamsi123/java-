@@ -37,3 +37,50 @@ and behaviurs of another class with the specific relationship.
 The superkeyword in Javarefers to the immediate parent class of a 
 subclass.
 -----------------------------------------------------------------------
+06.03.2025
+-----------
+JAVA fundamentals:-
+Features of Java:-
+Java has many features, including beingobject-oriented, platform independent, and multithreaded. 
+--------------------------------------------------------------------------------------------------------------------
+OOPs concepts:-
+1.encapsulation
+2.inheritance
+3.polymorphism
+4.abstraction
+ 1.encapsulation
+Enacapsulation is a mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.
+Or
+Encapsulation describes the ability  of an object to hide its data and methods from the rest of the world.
+2. inheritance
+Inheritance in Java isa feature of object-oriented programming (OOP) that allows a class to inherit properties and behaviors from another class. This concept is also known as the "is-a" relationship. 
+3.polymorphism
+Polymorphism is the ability of an object to take on many forms.
+There are two types:-
+1.Compile –time polymorphism
+Compile time polymorphism is a type of polymorphism which can be achieved at java compilation time.
+It is also reffered as static polymorphism or early binding.
+Compile time polymorphism  can be achieved using method overloading concept in java.
+
+2.Run-time polymorphism
+Runtime polymorphism is a type of polymorphism which can be achieved at java runtime or execution time.
+It is also referred as dynamic polymorphism or dynamic method dispatch.
+Runtime polymorphism can be achieved using method overriding concept in java.
+4.abstraction.
+Abstraction in Java isa technique for hiding complex implementation details and showing only the essential features of an object. It's a fundamental concept in Object-Oriented Programming (OOP). 
+---------------------------------------------------------------------------------------------------------------
+Java virtual machine:-
+The Java Virtual Machine (JVM) isa program that interprets Java bytecode and runs Java applications on different systems. It's the core of the Java programming language.
+
+Reflection byte codes:-
+Java Reflection examines the bytecode of a class at runtime to allow for programmatic interaction with its members. This feature is useful for inspecting and modifying the runtime behavior of applications.
+Byte code interpretation:-
+Bytecode interpretation isthe process of converting bytecode into machine code so that a computer's hardware can read it. Bytecode is an intermediate representation of source code. 
+Data types, variable, arrays, expressions, operators, and control:-
+Data Types, Variables, Arrays and Operators: Primary types – Integers – Floating point types – Characters – Booleans – A Closer Look at Literals – Variables – Type Conversion and Casting – Automatic type Promotion in Expressions – One Dimensional Arrays – Multi Dimensional Arrays – Operators & its types.
+Structures:-
+Java structures includedata structures, control structures, and class structures.
+------------------------------------------------------------------------------------------------------------------------------------------
+Objects and classes:-
+In Java, classes and objects are the fundamental building blocks of object-oriented programming. A class is a blueprint for creating objects, while an object is an instance of that class.
+-------------------------------------------------------------------------------------------------------------
