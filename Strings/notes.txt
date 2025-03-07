@@ -1,0 +1,9 @@
+What is a string?
+-----------------
+String is a sequence of characters and it is a class in java but considered
+as a literal because of its unique behaviour.
+---------------------------------------------------------------------------
+Different ways to create a string:-
+-----------------------------------
+String s1 = "hello";
+String s2 = new String("hello");
