@@ -1,0 +1,86 @@
+1.What is a data type?
+--------------------------------------------------------------------
+A data type is a classification of data which tells the compiler 
+or intepreter how the programmer intends to use the data 
+--------------------------------------------------------------------
+2.Categorisation of data types?
+-------------------------------------------------------------------
+Data Types:-
+
+byte
+short
+int
+long
+float
+double
+char
+boolean
+
+Primitive data types :- 
+In java Programming we have 8 Primitive data types which are:
+
+Integral Category Data Types(4)  : byte,short,int,long
+float Category Data Types(2)     : float,double
+Character Category Data Types(1) : char
+Boolean Category Data Types(1)   : boolean
+
+Integral Category Data Types:
+
+Byte Data Type :
+----------------
+Size : 8 bits(1 Bytes)
+Max_Value : 127
+Min_Value : -128
+
+Range : -128 to 127
+
+Byte data type is best suitable if we want to handle data in terms of 
+streams either from the file or from the file or from the network.
+
+Short Data Type :
+-----------------
+Size : 16 bits(2 Bytes)
+Max_Value : 32767
+Min_Value : -32768
+Range:  -32 768 to 32 767
+
+Note : Most rarely used Data type in java is 'short'
+Short Data type is best suitable for if we are using 16-bits processor.
+
+These processors are completely outdated & hence corresponding short data 
+type is also outdated.
+
+Int Data Type :
+---------------
+The most commonly used data type is 'int'
+
+Size : 4 Bytes
+Range : - -2147483648 to 2147483647
+
+Long Data types :
+----------------
+Whenever int is not enough to hold big values, then we should go for long
+data types.
+
+size : 8 Bytes
+Range:
+Floating point data types:
+
+float:
+
+Size : 4 Bytes
+Range : if we want 5 or 6 decimal point places of accurancy thes we should 
+go for float.
+
+float follows single precession.
+
+double :
+
+Size : 8 Bytes
+Range :
+if we want 14 or 15 decimal point places of accurancy then we should go 
+for float.
+-------------------------------------------------------------------------
+3. What are the Primitive data types available in java?
+4.What is the default value & size of each Primitive data type?
+5.What are the Non-Primitive data types in java?
