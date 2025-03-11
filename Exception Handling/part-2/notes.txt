@@ -1,0 +1,6 @@
+1.Try with resources 
+2.Multipke catch blocks
+3.Multiple exceptions in a single catch block
+4.When will the finally block not be executed?
+5.Eclipse shortcut for exception handling
+6.Throw custom (user definrd) exceptions using Throw keyword
