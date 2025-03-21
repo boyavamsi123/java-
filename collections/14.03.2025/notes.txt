@@ -1,0 +1,6 @@
+1.Creation Of a list
+2.Addition of elements into the list
+3.Retrieval of elements from the list
+4.Deletion of elements from the list
+5.Verification of elements in the list
+6.Updation of elements in the list 
