@@ -37,3 +37,10 @@ part-2:-
 3. How to define & implement the functional interfaces?
 4. Can we have more than one method in the functional interfaces?
 5. How anonymous classes are helping in implementing the functional interfaces
+
+
+/*
+    *this is a functional interface, so please dont add new abstarct methods
+*/
+
+SAM - Single Abstract Method
