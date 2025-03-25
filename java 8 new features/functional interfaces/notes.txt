@@ -1,0 +1,39 @@
+part-1:-
+--------
+1.what is an ingterface?
+2.when to use & how to use interfaces?
+3.How to create and implement an interface?
+4.Can we provide implementation within ingterface?
+5.Different access modifiers and keywords used in ingterface
+6.How the ingterfaces changed over the different version of java?
+=====================================================================
+whatis an ingterface?
+---------------------
+An ingterface is a blueprint of a class.
+
+Defined or unimplemented methods are known as abstract methods4
+===================================================================
+Can we provide implementation within ingterface?
+------------------------------------------------
+Yes we can do that but only after java 8 version.
+====================================================================
+Different access modifiers and keywords used in ingterface?
+----------------------------------------------------------
+public 
+private 
+static
+default
+====================================================================
+How the ingterfaces changed over the different version of java?
+---------------------------------------------------------------
+The interface feature in Java has changed over time with the introduction
+of new methods, types, and other features
+
+=========================================================================
+part-2:-
+-------
+1. what is functional interfaces?
+2. when it is introduced & why it is introduced?
+3. How to define & implement the functional interfaces?
+4. Can we have more than one method in the functional interfaces?
+5. How anonymous classes are helping in implementing the functional interfaces
